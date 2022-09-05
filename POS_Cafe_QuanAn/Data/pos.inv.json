@@ -1,0 +1,66 @@
+{
+    "id": "29",
+    "name": "A 6",
+    "subtotal": 200000,
+    "table_id": "29",
+    "id_user": "2",
+    "fullname": "demo",
+    "phone": "0000000000",
+    "caller": {
+        "id_user": "2",
+        "fullname": "demo"
+    },
+    "checkout": {
+      "plus": {
+        "VAT": {
+          "label": "vat(%)",
+            "price": "1000"
+        }
+        },
+      "reduce": {
+        "discount": {
+          "label": "chietkhau(%)",
+          "type": "%",
+          "num": "5",
+          "price": "1000"
+        }
+      }
+    },
+    "created_date": "2022-08-02 12:35:34",
+    "track_order": {
+        "2022-08-02 12:35:34": {
+            "products": [
+                {
+                    "id_product": "1",
+                    "quantity": "1",
+                    "price": "100000",
+                    "subtotal": "100000",
+                    "title": "Cafe",
+                    "choice": "",
+                    "note": ""
+                },
+                {
+                    "id_product": "1",
+                    "quantity": "1",
+                    "price": "100000",
+                    "subtotal": "100000",
+                    "title": "Cafe",
+                    "choice": "",
+                    "note": ""
+                }
+            ],
+            "id_user": "2",
+            "fullname": "demo",
+            "track": [
+                {
+                    "date": "2022-08-02 12:35:34",
+                    "a": "Staff confirm new order",
+                    "id_user": "2"
+                }
+            ],
+            "status": "kitchen"
+        }
+    },
+    "total": 200000,
+    "status": "kitchen"
+}

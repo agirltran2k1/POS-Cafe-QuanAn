@@ -1,0 +1,263 @@
+﻿{
+    "tables": {
+        "danh-sach-ban": {
+            "id": "danh-sach-ban",
+            "name": "Danh S\u00e1ch B\u00e0n",
+            "child": [{
+                "id": 24,
+                "name": "A 1",
+                "id_region": "0"
+            }, {
+                "id": 25,
+                "name": "A 2",
+                "id_region": "0"
+            }, {
+                "id": 26,
+                "name": "A 3",
+                "id_region": "0"
+            }, {
+                "id": 27,
+                "name": "A 4",
+                "id_region": "0"
+            }, {
+                "id": 28,
+                "name": "A 5",
+                "id_region": "0"
+            }, {
+                "id": 29,
+                "name": "A 6",
+                "id_region": "0"
+            }, {
+                "id": 30,
+                "name": "A 7",
+                "id_region": "0"
+            }, {
+                "id": 31,
+                "name": "A 8",
+                "id_region": "0"
+            }, {
+                "id": 32,
+                "name": "A 9",
+                "id_region": "0"
+            }, {
+                "id": 33,
+                "name": "A 10",
+                "id_region": "0"
+            }, {
+                "id": 34,
+                "name": "A 11",
+                "id_region": "0"
+            }, {
+                "id": 35,
+                "name": "A 12",
+                "id_region": "0"
+            }, {
+                "id": 36,
+                "name": "A 13",
+                "id_region": "0"
+            }, {
+                "id": 37,
+                "name": "A 14",
+                "id_region": "0"
+            }, {
+                "id": 38,
+                "name": "A 15",
+                "id_region": "0"
+            }, {
+                "id": 39,
+                "name": "A 16",
+                "id_region": "0"
+            }, {
+                "id": 40,
+                "name": "A 17",
+                "id_region": "0"
+            }, {
+                "id": 41,
+                "name": "A 18",
+                "id_region": "0"
+            }, {
+                "id": 42,
+                "name": "A 19",
+                "id_region": "0"
+            }, {
+                "id": 43,
+                "name": "A 20",
+                "id_region": "0"
+            }]
+        },
+        "abc": {
+            "id": "abc",
+            "name": "ABC",
+            "child": [{
+                "id": 1,
+                "name": "A1",
+                "id_region": "1"
+            }, {
+                "id": 2,
+                "name": "A2",
+                "id_region": "1"
+            }, {
+                "id": 3,
+                "name": "A3",
+                "id_region": "1"
+            }]
+        }
+    },
+  "products": [
+    {
+      "id": 1,
+      "title": "Cafe",
+      "price": 100000,
+      "category": "Cad",
+      "unit": "Ly",
+      "created_date": "2022-06-25 18:34:03",
+      "status": "",
+      "id_outlet": "",
+      "image": "https:\/\/via.placeholder.com\/150x105",
+      "type": "",
+      "allow_sale": 1,
+      "modified_date": "2022-06-25 18:34:03",
+      "desc": "",
+      "combo": "",
+      "limit_stock": "",
+      "barcode": "",
+      "weight": "",
+      "height": "",
+      "length": "",
+      "brand": "",
+      "original": "",
+      "width": "",
+      "id_parent": "",
+      "price_off": "",
+      "cost": "",
+      "exhibition": "",
+      "barcode_in": "",
+      "featured": "",
+      "cost_log": ""
+    },
+    {
+      "id": 2,
+      "title": "Cafe \u0110en",
+      "price": 30000,
+      "category": "N\u01b0\u1edbc U\u1ed1ng",
+      "unit": "Ly",
+      "created_date": "2022-08-07 20:26:36",
+      "status": "",
+      "id_outlet": "",
+      "image": "https:\/\/access.linkpos.top\/databases\/customers\/A1656151760CAFE_cafe\/upload\/1659878796_product_cafe-den",
+      "type": "",
+      "allow_sale": 1,
+      "modified_date": "2022-08-07 20:26:36",
+      "desc": "",
+      "combo": "",
+      "limit_stock": "",
+      "barcode": "",
+      "weight": "",
+      "height": "",
+      "length": "",
+      "brand": "",
+      "original": "",
+      "width": "",
+      "id_parent": "",
+      "price_off": "",
+      "cost": "",
+      "exhibition": "",
+      "barcode_in": "",
+      "featured": "",
+      "cost_log": ""
+    },
+    {
+      "id": 3,
+      "title": "Cafe \u0110en",
+      "price": 30000,
+      "category": "N\u01b0\u1edbc U\u1ed1ng",
+      "unit": "Ly",
+      "created_date": "2022-08-07 20:26:36",
+      "status": "",
+      "id_outlet": "",
+      "image": "https:\/\/access.linkpos.top\/databases\/customers\/A1656151760CAFE_cafe\/upload\/1659878796_product_cafe-den",
+      "type": "",
+      "allow_sale": 1,
+      "modified_date": "2022-08-07 20:26:36",
+      "desc": "",
+      "combo": "",
+      "limit_stock": "",
+      "barcode": "",
+      "weight": "",
+      "height": "",
+      "length": "",
+      "brand": "",
+      "original": "",
+      "width": "",
+      "id_parent": "",
+      "price_off": "",
+      "cost": "",
+      "exhibition": "",
+      "barcode_in": "",
+      "featured": "",
+      "cost_log": ""
+    },
+    {
+      "id": 4,
+      "title": "Cafe \u0110en",
+      "price": 30000,
+      "category": "N\u01b0\u1edbc U\u1ed1ng",
+      "unit": "Ly",
+      "created_date": "2022-08-07 20:26:36",
+      "status": "",
+      "id_outlet": "",
+      "image": "https:\/\/access.linkpos.top\/databases\/customers\/A1656151760CAFE_cafe\/upload\/1659878796_product_cafe-den",
+      "type": "",
+      "allow_sale": 1,
+      "modified_date": "2022-08-07 20:26:36",
+      "desc": "",
+      "combo": "",
+      "limit_stock": "",
+      "barcode": "",
+      "weight": "",
+      "height": "",
+      "length": "",
+      "brand": "",
+      "original": "",
+      "width": "",
+      "id_parent": "",
+      "price_off": "",
+      "cost": "",
+      "exhibition": "",
+      "barcode_in": "",
+      "featured": "",
+      "cost_log": ""
+    },
+    {
+      "id": 5,
+      "title": "Cafe \u0110en",
+      "price": 30000,
+      "category": "Hải sản",
+      "unit": "Ly",
+      "created_date": "2022-08-07 20:26:36",
+      "status": "",
+      "id_outlet": "",
+      "image": "https:\/\/access.linkpos.top\/databases\/customers\/A1656151760CAFE_cafe\/upload\/1659878796_product_cafe-den",
+      "type": "",
+      "allow_sale": 1,
+      "modified_date": "2022-08-07 20:26:36",
+      "desc": "",
+      "combo": "",
+      "limit_stock": "",
+      "barcode": "",
+      "weight": "",
+      "height": "",
+      "length": "",
+      "brand": "",
+      "original": "",
+      "width": "",
+      "id_parent": "",
+      "price_off": "",
+      "cost": "",
+      "exhibition": "",
+      "barcode_in": "",
+      "featured": "",
+      "cost_log": ""
+    }
+  ]
+}
